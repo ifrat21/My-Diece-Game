@@ -1,0 +1,26 @@
+body{
+
+  background-color:#fff6be;
+}
+
+#header{
+  text-align: center;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 4rem;
+  color:#8f1537;
+}
+#mainpart{
+  text-align: center;
+  color:#8f1537;
+  font-family:'Sedgwick Ave Display', cursive;
+  font-size: 2rem;
+}
+
+#footer{
+  text-align:center;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.img{
+  margin: 2px 30px;
+}
